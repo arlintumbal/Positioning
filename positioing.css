@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: center;
+    background-color: #615e41;
+    color: #fff;
+    padding: 100px;
+}
+
+.header img {
+    float: left;
+    max-width: 200px;
+    margin-right: 20px;
+}
+
+.text-container {
+    flex: 1;
+}
+
+.text-container h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.text-container p {
+    margin: 0;
+}
